@@ -1,4 +1,4 @@
 xyz() {
-  echo Hello from Function}
-
-  xyz
+  echo Hello from Function
+  }
+xyz
